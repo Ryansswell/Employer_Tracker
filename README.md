@@ -22,3 +22,5 @@ Any questions? How do I create the figlet?
 What is your GitHub username? @ryansswell
 
 What is your email? ryan0425@msn.com
+Employer1.PNG
+Employer2.PNG
