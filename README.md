@@ -1,42 +1,28 @@
-# Employer_Tracker
+## Ryan's Company Employer Tracker
 
-Professional README.md
-What is the name of your project? Ryan's Employer Tracker
+Managed your teams and company efficiently with this new app!
 
 ## Description
 
-As a Employer I want to be able to see and manage all of our departments, roles and employees.
-This is a great tool so I can organize and plan my business.
+Need help with keeping up to date with all the employees in your large company? This new app is created to help guide you through key prompts to help identify any individual in the company! In a large company new employees are always starting. Also working remote these days it's important to be able to communicate with the proper people and channels in your company.
 
-## License
+## Installation
 
-![ISC License](https://img.shields.io/static/v1.svg?label=License&message=MIT&color=yellow)
+What are the steps required to install your project? Clone a copy of this repository from Github to get started!
 
-## Usage
+## Features
 
-Provide instructions and examples for use. Screenshots are included to show correct usage.
-
-## Credits
-
-List your collaborators, if any, with links to their GitHub profiles.
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
-If you followed tutorials, include links to those here as well. undefined
-
-## How to Contribute
-
-If you created an application or package and would like other developers to contribute it, you can include guidelines for how to do so. The [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard, but you can always write your own if you'd prefer. Ryan
+An easy user experience that is intuitive and stylish! This application will be continually updated.
 
 ## Tests
 
-Attached are examples or screenshots to prove working.
+This has been tested on W3C markup validator and no errors or warnings to show.
 
-## Questions
-
-Any questions? How do I create the figlet?
-
-What is your GitHub username? @ryansswell
-
-What is your email? ryan0425@msn.com
+## ScreenShot
 
 ![](Employer1.PNG)
-![](Employer1.PNG)
+![](Employer2.PNG)
+
+## Credits
+
+Ryan Anderson
